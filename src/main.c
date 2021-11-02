@@ -3,8 +3,6 @@
     Spring 2021
     Project 1
 
-    Due Date: 2/28/21 11:59:00 pm
-
     Author Name: David Kravets
     Author email: kravets1@umbc.edu
     Description: a simple linux shell designed to perform basic linux commands
